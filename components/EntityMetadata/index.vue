@@ -8,7 +8,7 @@
         'entity-metadata__item--sm': data.sm,
       }"
     >
-      <h3>{{ data.label }}</h3>
+      <h3>{{ data.label }}Ademario E Yago Boladãox</h3>
       <p>
         <template v-if="data.links">
           <a
